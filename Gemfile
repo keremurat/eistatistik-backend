@@ -5,7 +5,7 @@ gem "rails", "~> 8.1.3"
 # Authentication is handled by Devise; authorization remains a separate concern.
 gem "devise", "~> 5.0"
 # Use postgresql as the database for Active Record
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.7"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
